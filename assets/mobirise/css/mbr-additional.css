@@ -1914,7 +1914,7 @@ body {
 .cid-qTtSU5pewA {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #ffffff;
+  background-image: url("../../../assets/images/soch-bgd-3-min-1920x1080.jpg");
 }
 .cid-qTtSU5pewA .carousel-item {
   justify-content: center;
@@ -2034,80 +2034,9 @@ body {
     align-items: center;
   }
 }
-.cid-qTtSW5DBaS {
-  padding-top: 75px;
-  padding-bottom: 90px;
-  background-color: #efefef;
-}
-.cid-qTtSW5DBaS .input-form {
-  display: flex;
-  justify-content: center;
-}
-.cid-qTtSW5DBaS .input-form .form1 {
-  width: 100%;
-}
-.cid-qTtSW5DBaS .mbr-form {
-  position: relative;
-  display: inline-block;
-  width: 100%;
-}
-.cid-qTtSW5DBaS .mbr-form .special-form {
-  padding: 1.7rem 2rem;
-}
-.cid-qTtSW5DBaS .mbr-section-btn {
-  display: inline-block;
-  position: absolute;
-  top: 8px;
-  right: 10px;
-}
-.cid-qTtSW5DBaS .underline {
-  padding-top: .5rem;
-  padding-bottom: .5rem;
-}
-.cid-qTtSW5DBaS .underline .line {
-  width: 5rem;
-  height: 3px;
-  background: linear-gradient(90deg, #a38dfd, #fe525b);
-  display: inline-block;
-}
-@media (min-width: 992px) {
-  .cid-qTtSW5DBaS .input-form .form1 {
-    width: 80%;
-  }
-}
-@media (max-width: 767px) {
-  .cid-qTtSW5DBaS {
-    padding-left: 1rem;
-    padding-right: 1rem;
-  }
-  .cid-qTtSW5DBaS .social-media {
-    padding: 0;
-    display: block;
-  }
-  .cid-qTtSW5DBaS .subtext-1,
-  .cid-qTtSW5DBaS .subtext-2 {
-    text-align: center !important;
-  }
-  .cid-qTtSW5DBaS .form-text {
-    text-align: center!important;
-  }
-  .cid-qTtSW5DBaS .input-form div {
-    width: 100%;
-  }
-  .cid-qTtSW5DBaS .mbr-form {
-    flex-direction: column;
-    width: 100% !important;
-  }
-  .cid-qTtSW5DBaS .mbr-form input[type="email"] {
-    width: 100%;
-  }
-  .cid-qTtSW5DBaS .mbr-form .mbr-section-btn {
-    margin-top: 1rem;
-    position: static;
-  }
-  .cid-qTtSW5DBaS .mbr-form .mbr-section-btn a {
-    display: block;
-  }
+.cid-qTtSU5pewA .user_text,
+.cid-qTtSU5pewA .testimonials-quote {
+  color: #232323;
 }
 .cid-qTzwFb41kf {
   padding-top: 90px;
